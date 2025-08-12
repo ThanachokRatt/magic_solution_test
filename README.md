@@ -14,3 +14,7 @@ flutter run
 
 ### 3 Build APK (for Android)
 flutter build apk
+
+### 4 Username And Password
+username : magic_owner
+password : 12345678
